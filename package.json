@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "Google Cloud: test ES6",
   "main": "index.mjs",
+  "type": "module",
   "scripts": {
+    "start": "node ./index.mjs",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
